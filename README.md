@@ -5,7 +5,7 @@ The following two points were originally in the (outdated) team coursework spec 
 2. [TODO] Which top level functions (F# signature and one paragraph description) are expected to be defined?
 
 ## What is the expected Team deliverable?
-Four separate analyses of user data from Google / Spotify / Facebook APIs, visualised on a web-application written in FABLE(?)
+Four separate analyses of user data from Google / Spotify / Facebook APIs, visualised on a web-application written in FABLE(?). We will be using .Net Framework to do HTTP requests.
 
 Extension: Combination of our analyses to derive even more meaningful inferences.
 
@@ -29,7 +29,7 @@ Each group member is expected to write 2 of their own modules:
 - A second module containing an `Expecto` test suite and any relevant test interfaces required, depending on individual implementation. An example of this would be to encapsulate all tests in a `testModule` function. This separates the tests from the shipped product and keeps code cleaner.
 
 The following contains a rough idea of the analyses we wish to perform. However, these may have to change as we get more familiar with the APIs.
-- Hardik: Facebook
+- Hardik: Facebook 
 - Darrick: Google - Calendar
 - Ethan: Spotify
 - Yusuf: Heatmap of music listening patterns
